@@ -23,5 +23,6 @@ export default {
 body{
   margin: 0px;
   padding: 0px;
+  word-wrap: break-word;
 }
 </style>

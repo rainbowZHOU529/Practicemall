@@ -19,7 +19,7 @@
       <tab-bar-item path="/profile">
         <img src="~assets/img/tabbar/profile.svg" alt="" slot="item-img">
         <img src="~assets/img/tabbar/profile_active.svg" alt="" slot="item-img-active">
-        <div slot="item-text">我的</div>
+        <div slot="item-text">新闻</div>
       </tab-bar-item>
     </tab-bar>
   </div>
